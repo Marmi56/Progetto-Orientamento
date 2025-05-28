@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AddStudentWindow</class>
+ <widget class="QWidget" name="AddStudentWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>250</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Aggiungi Studente</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item><widget class="QLineEdit" name="lineEdit_id"><property name="placeholderText"><string>ID studente</string></property></widget></item>
+   <item><widget class="QLineEdit" name="lineEdit_firstName"><property name="placeholderText"><string>Nome</string></property></widget></item>
+   <item><widget class="QLineEdit" name="lineEdit_lastName"><property name="placeholderText"><string>Cognome</string></property></widget></item>
+   <item><widget class="QLineEdit" name="lineEdit_subjectCode"><property name="placeholderText"><string>Codice Materia</string></property></widget></item>
+   <item><widget class="QLineEdit" name="lineEdit_courseCode"><property name="placeholderText"><string>Codice Corso</string></property></widget></item>
+   <item><widget class="QPushButton" name="addStudentFinalButton"><property name="text"><string>Aggiungi Studente</string></property></widget></item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

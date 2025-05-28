@@ -1,0 +1,1001 @@
+codice_corso,descrizione_corso,codice_materia,descrizione_materia,matricola_studente,cognome_studente,nome_studente
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100000,Ricci,Federico
+C002,Scienze Biologiche,M203,Chimica Organica,100001,Rizzo,Alessandro
+C002,Scienze Biologiche,M204,Fisica Medica,100002,Ricci,Luca
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100003,Bruno,Marco
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100004,Ricci,Davide
+C002,Scienze Biologiche,M203,Chimica Organica,100005,Ferrari,Andrea
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100006,Moretti,Chiara
+C002,Scienze Biologiche,M203,Chimica Organica,100007,Rossi,Martina
+C001,Ingegneria Informatica,M101,Programmazione 1,100008,Rizzo,Martina
+C002,Scienze Biologiche,M201,Biologia Molecolare,100009,Greco,Leonardo
+C002,Scienze Biologiche,M204,Fisica Medica,100010,Rossi,Andrea
+C003,Economia Aziendale,M302,Macroeconomia,100011,Ferrari,Matteo
+C003,Economia Aziendale,M305,Statistica,100012,Esposito,Matteo
+C003,Economia Aziendale,M305,Statistica,100013,Costa,Elisa
+C003,Economia Aziendale,M305,Statistica,100014,Lombardi,Marco
+C003,Economia Aziendale,M303,Ragioneria,100015,Lombardi,Federico
+C002,Scienze Biologiche,M204,Fisica Medica,100016,Giordano,Matteo
+C002,Scienze Biologiche,M203,Chimica Organica,100017,De Luca,Leonardo
+C003,Economia Aziendale,M304,Diritto Commerciale,100018,Rizzo,Martina
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100019,Ferrari,Aurora
+C002,Scienze Biologiche,M203,Chimica Organica,100020,Russo,Sara
+C002,Scienze Biologiche,M202,Genetica,100021,Rossi,Sara
+C001,Ingegneria Informatica,M102,Matematica Discreta,100022,Rizzo,Martina
+C002,Scienze Biologiche,M202,Genetica,100023,Russo,Francesca
+C002,Scienze Biologiche,M204,Fisica Medica,100024,Lombardi,Riccardo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100025,Mancini,Matteo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100026,De Luca,Federico
+C002,Scienze Biologiche,M205,Biochimica,100027,Bianchi,Federico
+C002,Scienze Biologiche,M205,Biochimica,100028,Ricci,Andrea
+C001,Ingegneria Informatica,M101,Programmazione 1,100029,Colombo,Beatrice
+C001,Ingegneria Informatica,M101,Programmazione 1,100030,Bianchi,Davide
+C002,Scienze Biologiche,M203,Chimica Organica,100031,Rossi,Alessandro
+C001,Ingegneria Informatica,M101,Programmazione 1,100032,Romano,Martina
+C001,Ingegneria Informatica,M102,Matematica Discreta,100033,Moretti,Alice
+C003,Economia Aziendale,M301,Microeconomia,100034,Romano,Camilla
+C003,Economia Aziendale,M305,Statistica,100035,Russo,Davide
+C001,Ingegneria Informatica,M102,Matematica Discreta,100036,Romano,Matteo
+C002,Scienze Biologiche,M202,Genetica,100037,Rossi,Luca
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100038,Colombo,Marco
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100039,Moretti,Federico
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100040,Moretti,Martina
+C003,Economia Aziendale,M301,Microeconomia,100041,Romano,Giulia
+C002,Scienze Biologiche,M201,Biologia Molecolare,100042,Ricci,Sara
+C002,Scienze Biologiche,M203,Chimica Organica,100043,Mancini,Luca
+C003,Economia Aziendale,M303,Ragioneria,100044,Marino,Davide
+C001,Ingegneria Informatica,M102,Matematica Discreta,100045,Colombo,Luca
+C003,Economia Aziendale,M302,Macroeconomia,100046,Mancini,Davide
+C002,Scienze Biologiche,M203,Chimica Organica,100047,Greco,Chiara
+C002,Scienze Biologiche,M202,Genetica,100048,Esposito,Federico
+C002,Scienze Biologiche,M204,Fisica Medica,100049,Mancini,Beatrice
+C002,Scienze Biologiche,M201,Biologia Molecolare,100050,Moretti,Andrea
+C002,Scienze Biologiche,M204,Fisica Medica,100051,Bruno,Alice
+C003,Economia Aziendale,M304,Diritto Commerciale,100052,Ricci,Martina
+C002,Scienze Biologiche,M203,Chimica Organica,100053,Ricci,Martina
+C003,Economia Aziendale,M304,Diritto Commerciale,100054,Costa,Giulia
+C003,Economia Aziendale,M302,Macroeconomia,100055,De Luca,Martina
+C002,Scienze Biologiche,M201,Biologia Molecolare,100056,Greco,Leonardo
+C003,Economia Aziendale,M301,Microeconomia,100057,Esposito,Marco
+C003,Economia Aziendale,M303,Ragioneria,100058,Ricci,Gabriele
+C002,Scienze Biologiche,M202,Genetica,100059,Gallo,Andrea
+C003,Economia Aziendale,M301,Microeconomia,100060,Bianchi,Luca
+C003,Economia Aziendale,M305,Statistica,100061,Esposito,Elisa
+C002,Scienze Biologiche,M201,Biologia Molecolare,100062,Moretti,Luca
+C002,Scienze Biologiche,M201,Biologia Molecolare,100063,Ferrari,Sara
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100064,Lombardi,Alessandro
+C003,Economia Aziendale,M304,Diritto Commerciale,100065,Bruno,Aurora
+C002,Scienze Biologiche,M201,Biologia Molecolare,100066,Conti,Elisa
+C002,Scienze Biologiche,M201,Biologia Molecolare,100067,De Luca,Marco
+C002,Scienze Biologiche,M203,Chimica Organica,100068,Gallo,Davide
+C003,Economia Aziendale,M302,Macroeconomia,100069,Conti,Camilla
+C002,Scienze Biologiche,M203,Chimica Organica,100070,Costa,Leonardo
+C003,Economia Aziendale,M302,Macroeconomia,100071,Costa,Gabriele
+C002,Scienze Biologiche,M201,Biologia Molecolare,100072,Greco,Martina
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100073,Ferrari,Sara
+C002,Scienze Biologiche,M203,Chimica Organica,100074,Mancini,Sara
+C003,Economia Aziendale,M302,Macroeconomia,100075,Moretti,Luca
+C002,Scienze Biologiche,M203,Chimica Organica,100076,Mancini,Gabriele
+C002,Scienze Biologiche,M204,Fisica Medica,100077,De Luca,Gabriele
+C002,Scienze Biologiche,M201,Biologia Molecolare,100078,Rizzo,Gabriele
+C003,Economia Aziendale,M301,Microeconomia,100079,Costa,Giulia
+C001,Ingegneria Informatica,M101,Programmazione 1,100080,Rizzo,Elisa
+C002,Scienze Biologiche,M201,Biologia Molecolare,100081,Lombardi,Martina
+C003,Economia Aziendale,M301,Microeconomia,100082,Gallo,Alice
+C003,Economia Aziendale,M305,Statistica,100083,Rizzo,Andrea
+C002,Scienze Biologiche,M205,Biochimica,100084,Rizzo,Giulia
+C003,Economia Aziendale,M305,Statistica,100085,Bruno,Gabriele
+C003,Economia Aziendale,M302,Macroeconomia,100086,Giordano,Martina
+C002,Scienze Biologiche,M201,Biologia Molecolare,100087,Bianchi,Beatrice
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100088,Esposito,Matteo
+C003,Economia Aziendale,M301,Microeconomia,100089,Mancini,Marco
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100090,Rizzo,Chiara
+C002,Scienze Biologiche,M204,Fisica Medica,100091,Ferrari,Marco
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100092,Moretti,Beatrice
+C003,Economia Aziendale,M302,Macroeconomia,100093,Romano,Gabriele
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100094,Bianchi,Beatrice
+C003,Economia Aziendale,M303,Ragioneria,100095,Marino,Gabriele
+C002,Scienze Biologiche,M205,Biochimica,100096,Lombardi,Sara
+C003,Economia Aziendale,M305,Statistica,100097,Moretti,Elisa
+C002,Scienze Biologiche,M204,Fisica Medica,100098,Rizzo,Giulia
+C003,Economia Aziendale,M301,Microeconomia,100099,Lombardi,Davide
+C002,Scienze Biologiche,M203,Chimica Organica,100100,De Luca,Marco
+C002,Scienze Biologiche,M205,Biochimica,100101,Bruno,Francesca
+C002,Scienze Biologiche,M204,Fisica Medica,100102,Romano,Aurora
+C002,Scienze Biologiche,M202,Genetica,100103,Greco,Gabriele
+C002,Scienze Biologiche,M204,Fisica Medica,100104,Costa,Francesca
+C002,Scienze Biologiche,M201,Biologia Molecolare,100105,Ferrari,Marco
+C001,Ingegneria Informatica,M102,Matematica Discreta,100106,Costa,Sara
+C002,Scienze Biologiche,M202,Genetica,100107,Greco,Matteo
+C002,Scienze Biologiche,M201,Biologia Molecolare,100108,Rossi,Andrea
+C003,Economia Aziendale,M301,Microeconomia,100109,Rossi,Alessandro
+C002,Scienze Biologiche,M203,Chimica Organica,100110,Greco,Alessandro
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100111,Marino,Marco
+C002,Scienze Biologiche,M201,Biologia Molecolare,100112,Ricci,Alice
+C002,Scienze Biologiche,M204,Fisica Medica,100113,Costa,Matteo
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100114,Costa,Chiara
+C002,Scienze Biologiche,M205,Biochimica,100115,Rossi,Chiara
+C003,Economia Aziendale,M304,Diritto Commerciale,100116,Colombo,Leonardo
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100117,Bruno,Federico
+C002,Scienze Biologiche,M202,Genetica,100118,Ricci,Matteo
+C003,Economia Aziendale,M305,Statistica,100119,Giordano,Federico
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100120,Greco,Martina
+C002,Scienze Biologiche,M205,Biochimica,100121,Ricci,Marco
+C003,Economia Aziendale,M303,Ragioneria,100122,Rossi,Martina
+C003,Economia Aziendale,M302,Macroeconomia,100123,Greco,Andrea
+C002,Scienze Biologiche,M204,Fisica Medica,100124,De Luca,Elisa
+C003,Economia Aziendale,M301,Microeconomia,100125,Bianchi,Camilla
+C002,Scienze Biologiche,M203,Chimica Organica,100126,De Luca,Gabriele
+C003,Economia Aziendale,M301,Microeconomia,100127,De Luca,Leonardo
+C002,Scienze Biologiche,M202,Genetica,100128,Bruno,Matteo
+C001,Ingegneria Informatica,M101,Programmazione 1,100129,Rossi,Andrea
+C002,Scienze Biologiche,M201,Biologia Molecolare,100130,Lombardi,Davide
+C002,Scienze Biologiche,M204,Fisica Medica,100131,Colombo,Martina
+C003,Economia Aziendale,M305,Statistica,100132,Russo,Beatrice
+C003,Economia Aziendale,M301,Microeconomia,100133,Costa,Leonardo
+C001,Ingegneria Informatica,M102,Matematica Discreta,100134,Lombardi,Marco
+C002,Scienze Biologiche,M205,Biochimica,100135,Costa,Andrea
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100136,Bruno,Alessandro
+C002,Scienze Biologiche,M205,Biochimica,100137,Marino,Riccardo
+C002,Scienze Biologiche,M201,Biologia Molecolare,100138,Ferrari,Federico
+C003,Economia Aziendale,M303,Ragioneria,100139,De Luca,Giulia
+C002,Scienze Biologiche,M204,Fisica Medica,100140,Romano,Riccardo
+C002,Scienze Biologiche,M202,Genetica,100141,Gallo,Francesca
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100142,De Luca,Francesca
+C001,Ingegneria Informatica,M102,Matematica Discreta,100143,Conti,Andrea
+C002,Scienze Biologiche,M205,Biochimica,100144,Moretti,Aurora
+C003,Economia Aziendale,M301,Microeconomia,100145,Giordano,Francesca
+C003,Economia Aziendale,M301,Microeconomia,100146,Rizzo,Gabriele
+C002,Scienze Biologiche,M205,Biochimica,100147,Rossi,Gabriele
+C002,Scienze Biologiche,M205,Biochimica,100148,Moretti,Elisa
+C001,Ingegneria Informatica,M102,Matematica Discreta,100149,Giordano,Leonardo
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100150,Russo,Leonardo
+C003,Economia Aziendale,M305,Statistica,100151,Marino,Martina
+C002,Scienze Biologiche,M204,Fisica Medica,100152,Conti,Alice
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100153,Conti,Federico
+C003,Economia Aziendale,M301,Microeconomia,100154,Marino,Federico
+C002,Scienze Biologiche,M203,Chimica Organica,100155,Costa,Chiara
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100156,Esposito,Beatrice
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100157,Mancini,Alice
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100158,Esposito,Leonardo
+C003,Economia Aziendale,M303,Ragioneria,100159,Mancini,Giulia
+C002,Scienze Biologiche,M202,Genetica,100160,Giordano,Giulia
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100161,Conti,Sara
+C002,Scienze Biologiche,M201,Biologia Molecolare,100162,Colombo,Aurora
+C002,Scienze Biologiche,M202,Genetica,100163,Marino,Alessandro
+C003,Economia Aziendale,M304,Diritto Commerciale,100164,Colombo,Leonardo
+C002,Scienze Biologiche,M203,Chimica Organica,100165,Costa,Luca
+C003,Economia Aziendale,M303,Ragioneria,100166,Colombo,Francesca
+C003,Economia Aziendale,M305,Statistica,100167,Bianchi,Elisa
+C003,Economia Aziendale,M302,Macroeconomia,100168,Costa,Alessandro
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100169,Ferrari,Riccardo
+C002,Scienze Biologiche,M205,Biochimica,100170,Moretti,Giulia
+C002,Scienze Biologiche,M203,Chimica Organica,100171,Costa,Marco
+C001,Ingegneria Informatica,M102,Matematica Discreta,100172,Mancini,Francesca
+C003,Economia Aziendale,M302,Macroeconomia,100173,Mancini,Marco
+C001,Ingegneria Informatica,M102,Matematica Discreta,100174,Lombardi,Elisa
+C003,Economia Aziendale,M302,Macroeconomia,100175,Ferrari,Riccardo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100176,Bianchi,Luca
+C003,Economia Aziendale,M303,Ragioneria,100177,Bruno,Federico
+C001,Ingegneria Informatica,M102,Matematica Discreta,100178,Moretti,Martina
+C002,Scienze Biologiche,M202,Genetica,100179,Esposito,Andrea
+C001,Ingegneria Informatica,M101,Programmazione 1,100180,Moretti,Alessandro
+C003,Economia Aziendale,M303,Ragioneria,100181,Rizzo,Marco
+C001,Ingegneria Informatica,M102,Matematica Discreta,100182,Ricci,Elisa
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100183,Colombo,Federico
+C003,Economia Aziendale,M304,Diritto Commerciale,100184,Bruno,Martina
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100185,Esposito,Luca
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100186,Gallo,Andrea
+C003,Economia Aziendale,M302,Macroeconomia,100187,Bruno,Gabriele
+C002,Scienze Biologiche,M202,Genetica,100188,Rizzo,Camilla
+C002,Scienze Biologiche,M202,Genetica,100189,Costa,Davide
+C002,Scienze Biologiche,M203,Chimica Organica,100190,Bruno,Giulia
+C002,Scienze Biologiche,M204,Fisica Medica,100191,Romano,Riccardo
+C002,Scienze Biologiche,M201,Biologia Molecolare,100192,Colombo,Gabriele
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100193,Ricci,Alice
+C003,Economia Aziendale,M305,Statistica,100194,Russo,Marco
+C003,Economia Aziendale,M304,Diritto Commerciale,100195,Moretti,Leonardo
+C003,Economia Aziendale,M305,Statistica,100196,Ricci,Matteo
+C002,Scienze Biologiche,M204,Fisica Medica,100197,Costa,Elisa
+C003,Economia Aziendale,M303,Ragioneria,100198,Bruno,Alice
+C002,Scienze Biologiche,M204,Fisica Medica,100199,Esposito,Leonardo
+C003,Economia Aziendale,M304,Diritto Commerciale,100200,Giordano,Alessandro
+C002,Scienze Biologiche,M204,Fisica Medica,100201,Rizzo,Beatrice
+C001,Ingegneria Informatica,M102,Matematica Discreta,100202,Romano,Martina
+C002,Scienze Biologiche,M204,Fisica Medica,100203,Rossi,Chiara
+C001,Ingegneria Informatica,M102,Matematica Discreta,100204,Giordano,Beatrice
+C002,Scienze Biologiche,M202,Genetica,100205,Moretti,Chiara
+C002,Scienze Biologiche,M201,Biologia Molecolare,100206,Costa,Gabriele
+C003,Economia Aziendale,M301,Microeconomia,100207,Mancini,Camilla
+C003,Economia Aziendale,M302,Macroeconomia,100208,Russo,Andrea
+C002,Scienze Biologiche,M202,Genetica,100209,Gallo,Beatrice
+C003,Economia Aziendale,M304,Diritto Commerciale,100210,Ricci,Beatrice
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100211,Esposito,Andrea
+C002,Scienze Biologiche,M201,Biologia Molecolare,100212,Colombo,Chiara
+C002,Scienze Biologiche,M203,Chimica Organica,100213,Rizzo,Alessandro
+C002,Scienze Biologiche,M202,Genetica,100214,Bianchi,Federico
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100215,Gallo,Giulia
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100216,Costa,Sara
+C001,Ingegneria Informatica,M102,Matematica Discreta,100217,Ricci,Alessandro
+C001,Ingegneria Informatica,M102,Matematica Discreta,100218,Mancini,Chiara
+C002,Scienze Biologiche,M203,Chimica Organica,100219,Costa,Federico
+C003,Economia Aziendale,M305,Statistica,100220,Esposito,Federico
+C001,Ingegneria Informatica,M101,Programmazione 1,100221,Costa,Davide
+C002,Scienze Biologiche,M201,Biologia Molecolare,100222,Moretti,Alessandro
+C002,Scienze Biologiche,M201,Biologia Molecolare,100223,Mancini,Francesca
+C003,Economia Aziendale,M301,Microeconomia,100224,Bianchi,Aurora
+C003,Economia Aziendale,M303,Ragioneria,100225,Romano,Chiara
+C002,Scienze Biologiche,M201,Biologia Molecolare,100226,Greco,Federico
+C002,Scienze Biologiche,M205,Biochimica,100227,Colombo,Beatrice
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100228,Ferrari,Alice
+C003,Economia Aziendale,M305,Statistica,100229,Bruno,Alice
+C002,Scienze Biologiche,M205,Biochimica,100230,Marino,Alessandro
+C002,Scienze Biologiche,M205,Biochimica,100231,Marino,Luca
+C002,Scienze Biologiche,M201,Biologia Molecolare,100232,Rossi,Giulia
+C001,Ingegneria Informatica,M101,Programmazione 1,100233,Greco,Alice
+C002,Scienze Biologiche,M203,Chimica Organica,100234,Greco,Marco
+C003,Economia Aziendale,M305,Statistica,100235,Bruno,Camilla
+C002,Scienze Biologiche,M204,Fisica Medica,100236,Marino,Leonardo
+C002,Scienze Biologiche,M202,Genetica,100237,Costa,Andrea
+C001,Ingegneria Informatica,M102,Matematica Discreta,100238,De Luca,Martina
+C002,Scienze Biologiche,M201,Biologia Molecolare,100239,De Luca,Gabriele
+C003,Economia Aziendale,M304,Diritto Commerciale,100240,Bruno,Gabriele
+C003,Economia Aziendale,M303,Ragioneria,100241,Bianchi,Alice
+C003,Economia Aziendale,M302,Macroeconomia,100242,Esposito,Andrea
+C001,Ingegneria Informatica,M102,Matematica Discreta,100243,Costa,Alessandro
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100244,Marino,Francesca
+C003,Economia Aziendale,M302,Macroeconomia,100245,Rizzo,Martina
+C002,Scienze Biologiche,M201,Biologia Molecolare,100246,Giordano,Aurora
+C003,Economia Aziendale,M302,Macroeconomia,100247,Esposito,Beatrice
+C002,Scienze Biologiche,M203,Chimica Organica,100248,Ricci,Alice
+C003,Economia Aziendale,M301,Microeconomia,100249,Lombardi,Marco
+C001,Ingegneria Informatica,M101,Programmazione 1,100250,De Luca,Martina
+C002,Scienze Biologiche,M201,Biologia Molecolare,100251,Marino,Camilla
+C001,Ingegneria Informatica,M102,Matematica Discreta,100252,Bruno,Luca
+C002,Scienze Biologiche,M203,Chimica Organica,100253,Romano,Riccardo
+C002,Scienze Biologiche,M204,Fisica Medica,100254,Bruno,Federico
+C001,Ingegneria Informatica,M102,Matematica Discreta,100255,Lombardi,Riccardo
+C003,Economia Aziendale,M303,Ragioneria,100256,Ferrari,Leonardo
+C002,Scienze Biologiche,M202,Genetica,100257,Romano,Aurora
+C003,Economia Aziendale,M305,Statistica,100258,Lombardi,Riccardo
+C002,Scienze Biologiche,M204,Fisica Medica,100259,Greco,Martina
+C002,Scienze Biologiche,M202,Genetica,100260,Romano,Aurora
+C003,Economia Aziendale,M304,Diritto Commerciale,100261,De Luca,Beatrice
+C002,Scienze Biologiche,M205,Biochimica,100262,Rossi,Aurora
+C001,Ingegneria Informatica,M102,Matematica Discreta,100263,Giordano,Riccardo
+C003,Economia Aziendale,M305,Statistica,100264,Russo,Federico
+C003,Economia Aziendale,M305,Statistica,100265,Bianchi,Luca
+C001,Ingegneria Informatica,M102,Matematica Discreta,100266,Marino,Gabriele
+C001,Ingegneria Informatica,M102,Matematica Discreta,100267,Russo,Aurora
+C002,Scienze Biologiche,M202,Genetica,100268,Bianchi,Gabriele
+C002,Scienze Biologiche,M205,Biochimica,100269,Ricci,Federico
+C001,Ingegneria Informatica,M102,Matematica Discreta,100270,Greco,Camilla
+C003,Economia Aziendale,M304,Diritto Commerciale,100271,Conti,Martina
+C003,Economia Aziendale,M304,Diritto Commerciale,100272,Giordano,Camilla
+C002,Scienze Biologiche,M203,Chimica Organica,100273,Ricci,Gabriele
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100274,Romano,Alice
+C001,Ingegneria Informatica,M102,Matematica Discreta,100275,Greco,Giulia
+C002,Scienze Biologiche,M202,Genetica,100276,Gallo,Chiara
+C002,Scienze Biologiche,M204,Fisica Medica,100277,Esposito,Matteo
+C002,Scienze Biologiche,M205,Biochimica,100278,Moretti,Giulia
+C002,Scienze Biologiche,M201,Biologia Molecolare,100279,Romano,Davide
+C002,Scienze Biologiche,M201,Biologia Molecolare,100280,Costa,Gabriele
+C001,Ingegneria Informatica,M102,Matematica Discreta,100281,Costa,Alessandro
+C002,Scienze Biologiche,M204,Fisica Medica,100282,Lombardi,Gabriele
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100283,Giordano,Chiara
+C002,Scienze Biologiche,M201,Biologia Molecolare,100284,Conti,Sara
+C002,Scienze Biologiche,M202,Genetica,100285,Giordano,Giulia
+C002,Scienze Biologiche,M204,Fisica Medica,100286,Moretti,Andrea
+C002,Scienze Biologiche,M203,Chimica Organica,100287,Costa,Leonardo
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100288,Rizzo,Giulia
+C003,Economia Aziendale,M305,Statistica,100289,Bruno,Andrea
+C001,Ingegneria Informatica,M101,Programmazione 1,100290,Greco,Davide
+C003,Economia Aziendale,M305,Statistica,100291,Colombo,Luca
+C003,Economia Aziendale,M304,Diritto Commerciale,100292,Esposito,Davide
+C001,Ingegneria Informatica,M102,Matematica Discreta,100293,Greco,Martina
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100294,Costa,Andrea
+C001,Ingegneria Informatica,M101,Programmazione 1,100295,De Luca,Aurora
+C003,Economia Aziendale,M303,Ragioneria,100296,Lombardi,Elisa
+C002,Scienze Biologiche,M203,Chimica Organica,100297,Gallo,Gabriele
+C001,Ingegneria Informatica,M102,Matematica Discreta,100298,Ferrari,Leonardo
+C003,Economia Aziendale,M305,Statistica,100299,Marino,Aurora
+C003,Economia Aziendale,M305,Statistica,100300,Moretti,Elisa
+C003,Economia Aziendale,M301,Microeconomia,100301,De Luca,Francesca
+C003,Economia Aziendale,M305,Statistica,100302,Marino,Beatrice
+C001,Ingegneria Informatica,M102,Matematica Discreta,100303,Lombardi,Davide
+C002,Scienze Biologiche,M201,Biologia Molecolare,100304,Gallo,Marco
+C002,Scienze Biologiche,M202,Genetica,100305,Ferrari,Andrea
+C002,Scienze Biologiche,M203,Chimica Organica,100306,Lombardi,Alessandro
+C003,Economia Aziendale,M303,Ragioneria,100307,Rizzo,Alice
+C003,Economia Aziendale,M301,Microeconomia,100308,Esposito,Elisa
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100309,Colombo,Alessandro
+C003,Economia Aziendale,M305,Statistica,100310,Ferrari,Riccardo
+C001,Ingegneria Informatica,M101,Programmazione 1,100311,Moretti,Davide
+C003,Economia Aziendale,M305,Statistica,100312,Bianchi,Giulia
+C002,Scienze Biologiche,M204,Fisica Medica,100313,De Luca,Martina
+C001,Ingegneria Informatica,M101,Programmazione 1,100314,De Luca,Leonardo
+C003,Economia Aziendale,M305,Statistica,100315,Ferrari,Elisa
+C003,Economia Aziendale,M302,Macroeconomia,100316,Marino,Andrea
+C002,Scienze Biologiche,M202,Genetica,100317,Moretti,Giulia
+C003,Economia Aziendale,M305,Statistica,100318,Lombardi,Sara
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100319,Greco,Camilla
+C003,Economia Aziendale,M302,Macroeconomia,100320,Bruno,Marco
+C003,Economia Aziendale,M304,Diritto Commerciale,100321,Moretti,Marco
+C003,Economia Aziendale,M301,Microeconomia,100322,Romano,Gabriele
+C003,Economia Aziendale,M302,Macroeconomia,100323,Bruno,Elisa
+C001,Ingegneria Informatica,M102,Matematica Discreta,100324,Russo,Gabriele
+C003,Economia Aziendale,M305,Statistica,100325,Lombardi,Luca
+C001,Ingegneria Informatica,M101,Programmazione 1,100326,Giordano,Alessandro
+C002,Scienze Biologiche,M204,Fisica Medica,100327,De Luca,Chiara
+C002,Scienze Biologiche,M203,Chimica Organica,100328,De Luca,Federico
+C002,Scienze Biologiche,M205,Biochimica,100329,Mancini,Luca
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100330,Marino,Giulia
+C003,Economia Aziendale,M303,Ragioneria,100331,Giordano,Aurora
+C002,Scienze Biologiche,M205,Biochimica,100332,De Luca,Federico
+C002,Scienze Biologiche,M204,Fisica Medica,100333,Bruno,Alice
+C003,Economia Aziendale,M303,Ragioneria,100334,Colombo,Riccardo
+C002,Scienze Biologiche,M204,Fisica Medica,100335,Conti,Aurora
+C002,Scienze Biologiche,M203,Chimica Organica,100336,Rossi,Luca
+C003,Economia Aziendale,M302,Macroeconomia,100337,Bruno,Elisa
+C003,Economia Aziendale,M304,Diritto Commerciale,100338,Colombo,Gabriele
+C002,Scienze Biologiche,M203,Chimica Organica,100339,Moretti,Matteo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100340,Esposito,Camilla
+C003,Economia Aziendale,M303,Ragioneria,100341,Colombo,Alessandro
+C002,Scienze Biologiche,M204,Fisica Medica,100342,Mancini,Leonardo
+C002,Scienze Biologiche,M205,Biochimica,100343,Esposito,Chiara
+C002,Scienze Biologiche,M201,Biologia Molecolare,100344,Bianchi,Beatrice
+C002,Scienze Biologiche,M201,Biologia Molecolare,100345,Conti,Aurora
+C003,Economia Aziendale,M303,Ragioneria,100346,Ricci,Aurora
+C002,Scienze Biologiche,M203,Chimica Organica,100347,Gallo,Andrea
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100348,Romano,Alessandro
+C002,Scienze Biologiche,M205,Biochimica,100349,Costa,Luca
+C002,Scienze Biologiche,M203,Chimica Organica,100350,Esposito,Leonardo
+C003,Economia Aziendale,M305,Statistica,100351,Ferrari,Elisa
+C002,Scienze Biologiche,M203,Chimica Organica,100352,De Luca,Francesca
+C001,Ingegneria Informatica,M101,Programmazione 1,100353,De Luca,Camilla
+C003,Economia Aziendale,M304,Diritto Commerciale,100354,Russo,Sara
+C003,Economia Aziendale,M301,Microeconomia,100355,Rossi,Riccardo
+C003,Economia Aziendale,M304,Diritto Commerciale,100356,Esposito,Luca
+C002,Scienze Biologiche,M202,Genetica,100357,Gallo,Marco
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100358,Marino,Luca
+C001,Ingegneria Informatica,M101,Programmazione 1,100359,Rizzo,Andrea
+C003,Economia Aziendale,M303,Ragioneria,100360,Rossi,Marco
+C002,Scienze Biologiche,M201,Biologia Molecolare,100361,Rossi,Riccardo
+C002,Scienze Biologiche,M202,Genetica,100362,Ricci,Federico
+C001,Ingegneria Informatica,M102,Matematica Discreta,100363,Mancini,Andrea
+C001,Ingegneria Informatica,M102,Matematica Discreta,100364,Russo,Andrea
+C002,Scienze Biologiche,M201,Biologia Molecolare,100365,Conti,Giulia
+C002,Scienze Biologiche,M203,Chimica Organica,100366,Rossi,Aurora
+C003,Economia Aziendale,M303,Ragioneria,100367,Colombo,Elisa
+C003,Economia Aziendale,M301,Microeconomia,100368,Bianchi,Camilla
+C002,Scienze Biologiche,M203,Chimica Organica,100369,De Luca,Giulia
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100370,Conti,Leonardo
+C002,Scienze Biologiche,M205,Biochimica,100371,Rizzo,Federico
+C002,Scienze Biologiche,M205,Biochimica,100372,Conti,Luca
+C002,Scienze Biologiche,M201,Biologia Molecolare,100373,Esposito,Giulia
+C002,Scienze Biologiche,M202,Genetica,100374,Rossi,Camilla
+C001,Ingegneria Informatica,M101,Programmazione 1,100375,Ferrari,Sara
+C002,Scienze Biologiche,M203,Chimica Organica,100376,Moretti,Andrea
+C002,Scienze Biologiche,M205,Biochimica,100377,Gallo,Aurora
+C002,Scienze Biologiche,M203,Chimica Organica,100378,Rizzo,Elisa
+C002,Scienze Biologiche,M205,Biochimica,100379,Colombo,Camilla
+C002,Scienze Biologiche,M201,Biologia Molecolare,100380,Romano,Giulia
+C003,Economia Aziendale,M301,Microeconomia,100381,Conti,Sara
+C003,Economia Aziendale,M302,Macroeconomia,100382,De Luca,Sara
+C002,Scienze Biologiche,M203,Chimica Organica,100383,De Luca,Martina
+C002,Scienze Biologiche,M204,Fisica Medica,100384,Giordano,Elisa
+C003,Economia Aziendale,M303,Ragioneria,100385,Colombo,Sara
+C003,Economia Aziendale,M302,Macroeconomia,100386,Moretti,Luca
+C003,Economia Aziendale,M304,Diritto Commerciale,100387,Russo,Aurora
+C003,Economia Aziendale,M301,Microeconomia,100388,Marino,Matteo
+C003,Economia Aziendale,M302,Macroeconomia,100389,Giordano,Leonardo
+C003,Economia Aziendale,M301,Microeconomia,100390,Gallo,Elisa
+C003,Economia Aziendale,M301,Microeconomia,100391,Colombo,Andrea
+C002,Scienze Biologiche,M201,Biologia Molecolare,100392,Rossi,Martina
+C003,Economia Aziendale,M301,Microeconomia,100393,Bianchi,Beatrice
+C002,Scienze Biologiche,M205,Biochimica,100394,Costa,Sara
+C002,Scienze Biologiche,M201,Biologia Molecolare,100395,Costa,Riccardo
+C003,Economia Aziendale,M303,Ragioneria,100396,Marino,Matteo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100397,Lombardi,Marco
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100398,Giordano,Martina
+C002,Scienze Biologiche,M201,Biologia Molecolare,100399,Rossi,Elisa
+C002,Scienze Biologiche,M203,Chimica Organica,100400,Bianchi,Martina
+C002,Scienze Biologiche,M204,Fisica Medica,100401,Moretti,Beatrice
+C003,Economia Aziendale,M303,Ragioneria,100402,Ferrari,Federico
+C002,Scienze Biologiche,M205,Biochimica,100403,Gallo,Sara
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100404,De Luca,Elisa
+C002,Scienze Biologiche,M204,Fisica Medica,100405,Lombardi,Gabriele
+C003,Economia Aziendale,M304,Diritto Commerciale,100406,De Luca,Leonardo
+C003,Economia Aziendale,M302,Macroeconomia,100407,Mancini,Aurora
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100408,Ricci,Andrea
+C002,Scienze Biologiche,M202,Genetica,100409,Conti,Luca
+C003,Economia Aziendale,M301,Microeconomia,100410,Mancini,Matteo
+C002,Scienze Biologiche,M205,Biochimica,100411,Russo,Gabriele
+C003,Economia Aziendale,M301,Microeconomia,100412,Mancini,Federico
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100413,Mancini,Alice
+C003,Economia Aziendale,M304,Diritto Commerciale,100414,De Luca,Camilla
+C003,Economia Aziendale,M303,Ragioneria,100415,Russo,Francesca
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100416,Greco,Marco
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100417,Giordano,Federico
+C003,Economia Aziendale,M305,Statistica,100418,Costa,Elisa
+C001,Ingegneria Informatica,M101,Programmazione 1,100419,Marino,Riccardo
+C003,Economia Aziendale,M305,Statistica,100420,Lombardi,Chiara
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100421,Greco,Leonardo
+C003,Economia Aziendale,M305,Statistica,100422,Lombardi,Giulia
+C001,Ingegneria Informatica,M102,Matematica Discreta,100423,Ricci,Chiara
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100424,Marino,Federico
+C003,Economia Aziendale,M303,Ragioneria,100425,Ricci,Francesca
+C003,Economia Aziendale,M302,Macroeconomia,100426,Giordano,Federico
+C003,Economia Aziendale,M301,Microeconomia,100427,Ferrari,Alice
+C003,Economia Aziendale,M305,Statistica,100428,Bianchi,Luca
+C002,Scienze Biologiche,M202,Genetica,100429,Bianchi,Beatrice
+C002,Scienze Biologiche,M202,Genetica,100430,De Luca,Leonardo
+C002,Scienze Biologiche,M204,Fisica Medica,100431,Lombardi,Camilla
+C003,Economia Aziendale,M303,Ragioneria,100432,Rizzo,Davide
+C001,Ingegneria Informatica,M101,Programmazione 1,100433,Ricci,Davide
+C002,Scienze Biologiche,M203,Chimica Organica,100434,Giordano,Aurora
+C002,Scienze Biologiche,M205,Biochimica,100435,Conti,Francesca
+C002,Scienze Biologiche,M201,Biologia Molecolare,100436,De Luca,Davide
+C002,Scienze Biologiche,M205,Biochimica,100437,Marino,Sara
+C002,Scienze Biologiche,M203,Chimica Organica,100438,Mancini,Chiara
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100439,Lombardi,Luca
+C003,Economia Aziendale,M303,Ragioneria,100440,Giordano,Marco
+C002,Scienze Biologiche,M203,Chimica Organica,100441,Marino,Andrea
+C003,Economia Aziendale,M305,Statistica,100442,Esposito,Beatrice
+C003,Economia Aziendale,M305,Statistica,100443,De Luca,Martina
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100444,Russo,Alessandro
+C002,Scienze Biologiche,M202,Genetica,100445,Gallo,Marco
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100446,Gallo,Giulia
+C003,Economia Aziendale,M302,Macroeconomia,100447,Esposito,Giulia
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100448,Greco,Matteo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100449,Ricci,Andrea
+C002,Scienze Biologiche,M204,Fisica Medica,100450,Ferrari,Elisa
+C003,Economia Aziendale,M303,Ragioneria,100451,Mancini,Federico
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100452,Moretti,Francesca
+C002,Scienze Biologiche,M201,Biologia Molecolare,100453,De Luca,Aurora
+C003,Economia Aziendale,M302,Macroeconomia,100454,Esposito,Leonardo
+C002,Scienze Biologiche,M205,Biochimica,100455,Colombo,Marco
+C003,Economia Aziendale,M305,Statistica,100456,Gallo,Camilla
+C002,Scienze Biologiche,M201,Biologia Molecolare,100457,Costa,Sara
+C002,Scienze Biologiche,M205,Biochimica,100458,Gallo,Riccardo
+C003,Economia Aziendale,M304,Diritto Commerciale,100459,Giordano,Gabriele
+C002,Scienze Biologiche,M201,Biologia Molecolare,100460,Gallo,Matteo
+C003,Economia Aziendale,M303,Ragioneria,100461,Greco,Marco
+C002,Scienze Biologiche,M204,Fisica Medica,100462,Greco,Andrea
+C002,Scienze Biologiche,M201,Biologia Molecolare,100463,Gallo,Francesca
+C003,Economia Aziendale,M304,Diritto Commerciale,100464,Ricci,Matteo
+C002,Scienze Biologiche,M202,Genetica,100465,Russo,Luca
+C003,Economia Aziendale,M305,Statistica,100466,Greco,Federico
+C003,Economia Aziendale,M302,Macroeconomia,100467,Gallo,Matteo
+C002,Scienze Biologiche,M205,Biochimica,100468,Mancini,Riccardo
+C002,Scienze Biologiche,M202,Genetica,100469,Colombo,Andrea
+C002,Scienze Biologiche,M201,Biologia Molecolare,100470,Russo,Alice
+C003,Economia Aziendale,M303,Ragioneria,100471,Mancini,Leonardo
+C002,Scienze Biologiche,M201,Biologia Molecolare,100472,Rizzo,Andrea
+C002,Scienze Biologiche,M202,Genetica,100473,Lombardi,Sara
+C003,Economia Aziendale,M305,Statistica,100474,Mancini,Matteo
+C003,Economia Aziendale,M305,Statistica,100475,Russo,Giulia
+C003,Economia Aziendale,M305,Statistica,100476,Costa,Giulia
+C001,Ingegneria Informatica,M102,Matematica Discreta,100477,Lombardi,Alessandro
+C003,Economia Aziendale,M305,Statistica,100478,Moretti,Davide
+C002,Scienze Biologiche,M205,Biochimica,100479,Russo,Martina
+C002,Scienze Biologiche,M204,Fisica Medica,100480,Costa,Aurora
+C002,Scienze Biologiche,M202,Genetica,100481,Mancini,Martina
+C003,Economia Aziendale,M302,Macroeconomia,100482,Esposito,Martina
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100483,Greco,Davide
+C001,Ingegneria Informatica,M102,Matematica Discreta,100484,Ferrari,Riccardo
+C002,Scienze Biologiche,M205,Biochimica,100485,Colombo,Gabriele
+C003,Economia Aziendale,M305,Statistica,100486,Giordano,Marco
+C003,Economia Aziendale,M303,Ragioneria,100487,Bianchi,Riccardo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100488,Giordano,Chiara
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100489,Colombo,Davide
+C003,Economia Aziendale,M303,Ragioneria,100490,Bianchi,Leonardo
+C001,Ingegneria Informatica,M101,Programmazione 1,100491,Marino,Martina
+C003,Economia Aziendale,M301,Microeconomia,100492,Greco,Alice
+C003,Economia Aziendale,M305,Statistica,100493,Ferrari,Federico
+C003,Economia Aziendale,M301,Microeconomia,100494,Rizzo,Sara
+C003,Economia Aziendale,M303,Ragioneria,100495,Ferrari,Francesca
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100496,Costa,Martina
+C002,Scienze Biologiche,M202,Genetica,100497,Rizzo,Beatrice
+C001,Ingegneria Informatica,M101,Programmazione 1,100498,Ferrari,Riccardo
+C001,Ingegneria Informatica,M101,Programmazione 1,100499,Gallo,Luca
+C001,Ingegneria Informatica,M101,Programmazione 1,100500,Moretti,Elisa
+C001,Ingegneria Informatica,M101,Programmazione 1,100501,Lombardi,Beatrice
+C003,Economia Aziendale,M301,Microeconomia,100502,Rizzo,Camilla
+C002,Scienze Biologiche,M201,Biologia Molecolare,100503,Moretti,Francesca
+C003,Economia Aziendale,M305,Statistica,100504,De Luca,Leonardo
+C002,Scienze Biologiche,M204,Fisica Medica,100505,Rossi,Davide
+C003,Economia Aziendale,M301,Microeconomia,100506,Colombo,Leonardo
+C001,Ingegneria Informatica,M102,Matematica Discreta,100507,Gallo,Alessandro
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100508,Moretti,Riccardo
+C001,Ingegneria Informatica,M101,Programmazione 1,100509,Ferrari,Camilla
+C003,Economia Aziendale,M305,Statistica,100510,Esposito,Elisa
+C001,Ingegneria Informatica,M101,Programmazione 1,100511,Marino,Andrea
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100512,Conti,Andrea
+C002,Scienze Biologiche,M203,Chimica Organica,100513,Bruno,Luca
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100514,Marino,Aurora
+C003,Economia Aziendale,M302,Macroeconomia,100515,De Luca,Matteo
+C003,Economia Aziendale,M302,Macroeconomia,100516,Conti,Andrea
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100517,Gallo,Alessandro
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100518,Greco,Beatrice
+C002,Scienze Biologiche,M203,Chimica Organica,100519,Mancini,Chiara
+C003,Economia Aziendale,M301,Microeconomia,100520,Costa,Camilla
+C002,Scienze Biologiche,M201,Biologia Molecolare,100521,Lombardi,Leonardo
+C003,Economia Aziendale,M305,Statistica,100522,Rossi,Alessandro
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100523,Rossi,Leonardo
+C002,Scienze Biologiche,M203,Chimica Organica,100524,De Luca,Davide
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100525,Costa,Aurora
+C002,Scienze Biologiche,M203,Chimica Organica,100526,Bianchi,Riccardo
+C003,Economia Aziendale,M301,Microeconomia,100527,Rizzo,Chiara
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100528,Ricci,Marco
+C002,Scienze Biologiche,M203,Chimica Organica,100529,Ferrari,Sara
+C002,Scienze Biologiche,M204,Fisica Medica,100530,Costa,Andrea
+C002,Scienze Biologiche,M201,Biologia Molecolare,100531,Ricci,Elisa
+C002,Scienze Biologiche,M201,Biologia Molecolare,100532,Lombardi,Chiara
+C001,Ingegneria Informatica,M102,Matematica Discreta,100533,Romano,Alice
+C003,Economia Aziendale,M303,Ragioneria,100534,Bruno,Riccardo
+C003,Economia Aziendale,M304,Diritto Commerciale,100535,Bruno,Martina
+C003,Economia Aziendale,M303,Ragioneria,100536,Moretti,Beatrice
+C003,Economia Aziendale,M303,Ragioneria,100537,De Luca,Beatrice
+C002,Scienze Biologiche,M201,Biologia Molecolare,100538,Gallo,Luca
+C002,Scienze Biologiche,M204,Fisica Medica,100539,Bianchi,Martina
+C001,Ingegneria Informatica,M101,Programmazione 1,100540,Bruno,Leonardo
+C001,Ingegneria Informatica,M102,Matematica Discreta,100541,Bianchi,Marco
+C001,Ingegneria Informatica,M102,Matematica Discreta,100542,Ricci,Alice
+C003,Economia Aziendale,M305,Statistica,100543,Greco,Aurora
+C003,Economia Aziendale,M302,Macroeconomia,100544,Greco,Leonardo
+C002,Scienze Biologiche,M203,Chimica Organica,100545,Costa,Beatrice
+C001,Ingegneria Informatica,M102,Matematica Discreta,100546,Romano,Giulia
+C003,Economia Aziendale,M301,Microeconomia,100547,Giordano,Luca
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100548,Lombardi,Aurora
+C002,Scienze Biologiche,M203,Chimica Organica,100549,Gallo,Luca
+C002,Scienze Biologiche,M204,Fisica Medica,100550,Gallo,Alessandro
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100551,Costa,Alessandro
+C003,Economia Aziendale,M301,Microeconomia,100552,Gallo,Beatrice
+C003,Economia Aziendale,M305,Statistica,100553,Bianchi,Aurora
+C001,Ingegneria Informatica,M101,Programmazione 1,100554,Greco,Sara
+C002,Scienze Biologiche,M201,Biologia Molecolare,100555,Rossi,Chiara
+C002,Scienze Biologiche,M202,Genetica,100556,Gallo,Alice
+C002,Scienze Biologiche,M202,Genetica,100557,Greco,Elisa
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100558,Bruno,Riccardo
+C002,Scienze Biologiche,M203,Chimica Organica,100559,Esposito,Alice
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100560,Ferrari,Andrea
+C002,Scienze Biologiche,M203,Chimica Organica,100561,Marino,Giulia
+C003,Economia Aziendale,M304,Diritto Commerciale,100562,Colombo,Aurora
+C003,Economia Aziendale,M302,Macroeconomia,100563,Lombardi,Camilla
+C002,Scienze Biologiche,M203,Chimica Organica,100564,Lombardi,Camilla
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100565,Rossi,Luca
+C003,Economia Aziendale,M301,Microeconomia,100566,Rossi,Matteo
+C002,Scienze Biologiche,M204,Fisica Medica,100567,Greco,Sara
+C003,Economia Aziendale,M305,Statistica,100568,Conti,Chiara
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100569,Conti,Riccardo
+C003,Economia Aziendale,M301,Microeconomia,100570,Moretti,Luca
+C002,Scienze Biologiche,M203,Chimica Organica,100571,Bruno,Gabriele
+C002,Scienze Biologiche,M204,Fisica Medica,100572,Bianchi,Elisa
+C001,Ingegneria Informatica,M102,Matematica Discreta,100573,Ricci,Camilla
+C003,Economia Aziendale,M303,Ragioneria,100574,Russo,Camilla
+C003,Economia Aziendale,M301,Microeconomia,100575,Rossi,Camilla
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100576,Marino,Marco
+C002,Scienze Biologiche,M203,Chimica Organica,100577,Moretti,Alice
+C002,Scienze Biologiche,M205,Biochimica,100578,Mancini,Matteo
+C003,Economia Aziendale,M305,Statistica,100579,Conti,Aurora
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100580,Ferrari,Aurora
+C003,Economia Aziendale,M301,Microeconomia,100581,Colombo,Davide
+C003,Economia Aziendale,M302,Macroeconomia,100582,Colombo,Riccardo
+C002,Scienze Biologiche,M202,Genetica,100583,Lombardi,Francesca
+C003,Economia Aziendale,M301,Microeconomia,100584,Giordano,Sara
+C003,Economia Aziendale,M303,Ragioneria,100585,Gallo,Leonardo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100586,Bianchi,Davide
+C003,Economia Aziendale,M305,Statistica,100587,Lombardi,Davide
+C002,Scienze Biologiche,M204,Fisica Medica,100588,Mancini,Davide
+C002,Scienze Biologiche,M204,Fisica Medica,100589,Gallo,Camilla
+C002,Scienze Biologiche,M201,Biologia Molecolare,100590,Ricci,Luca
+C003,Economia Aziendale,M304,Diritto Commerciale,100591,Rossi,Francesca
+C002,Scienze Biologiche,M202,Genetica,100592,Romano,Alessandro
+C001,Ingegneria Informatica,M102,Matematica Discreta,100593,Ricci,Davide
+C003,Economia Aziendale,M301,Microeconomia,100594,Gallo,Riccardo
+C001,Ingegneria Informatica,M101,Programmazione 1,100595,Colombo,Leonardo
+C003,Economia Aziendale,M302,Macroeconomia,100596,Moretti,Luca
+C003,Economia Aziendale,M301,Microeconomia,100597,Esposito,Marco
+C003,Economia Aziendale,M301,Microeconomia,100598,Russo,Davide
+C002,Scienze Biologiche,M203,Chimica Organica,100599,Ferrari,Chiara
+C002,Scienze Biologiche,M203,Chimica Organica,100600,Russo,Alessandro
+C003,Economia Aziendale,M301,Microeconomia,100601,Greco,Sara
+C002,Scienze Biologiche,M202,Genetica,100602,Russo,Martina
+C002,Scienze Biologiche,M205,Biochimica,100603,Costa,Andrea
+C002,Scienze Biologiche,M202,Genetica,100604,Romano,Davide
+C002,Scienze Biologiche,M205,Biochimica,100605,Ricci,Chiara
+C002,Scienze Biologiche,M204,Fisica Medica,100606,Costa,Leonardo
+C002,Scienze Biologiche,M203,Chimica Organica,100607,Lombardi,Camilla
+C002,Scienze Biologiche,M204,Fisica Medica,100608,Rossi,Francesca
+C003,Economia Aziendale,M303,Ragioneria,100609,Romano,Sara
+C002,Scienze Biologiche,M201,Biologia Molecolare,100610,Moretti,Alice
+C001,Ingegneria Informatica,M102,Matematica Discreta,100611,Colombo,Federico
+C002,Scienze Biologiche,M205,Biochimica,100612,Ferrari,Camilla
+C003,Economia Aziendale,M301,Microeconomia,100613,Esposito,Alice
+C001,Ingegneria Informatica,M101,Programmazione 1,100614,Bruno,Alessandro
+C002,Scienze Biologiche,M204,Fisica Medica,100615,Romano,Leonardo
+C002,Scienze Biologiche,M205,Biochimica,100616,Gallo,Riccardo
+C003,Economia Aziendale,M301,Microeconomia,100617,Colombo,Riccardo
+C003,Economia Aziendale,M301,Microeconomia,100618,Romano,Alessandro
+C002,Scienze Biologiche,M205,Biochimica,100619,Bruno,Sara
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100620,Lombardi,Andrea
+C002,Scienze Biologiche,M201,Biologia Molecolare,100621,Marino,Beatrice
+C003,Economia Aziendale,M304,Diritto Commerciale,100622,Bruno,Beatrice
+C002,Scienze Biologiche,M201,Biologia Molecolare,100623,Rizzo,Davide
+C003,Economia Aziendale,M303,Ragioneria,100624,Moretti,Andrea
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100625,Russo,Luca
+C003,Economia Aziendale,M301,Microeconomia,100626,Colombo,Alice
+C003,Economia Aziendale,M305,Statistica,100627,Lombardi,Alessandro
+C002,Scienze Biologiche,M203,Chimica Organica,100628,Giordano,Davide
+C002,Scienze Biologiche,M204,Fisica Medica,100629,Lombardi,Beatrice
+C002,Scienze Biologiche,M202,Genetica,100630,Gallo,Aurora
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100631,Esposito,Sara
+C003,Economia Aziendale,M304,Diritto Commerciale,100632,De Luca,Alice
+C002,Scienze Biologiche,M203,Chimica Organica,100633,Ricci,Chiara
+C003,Economia Aziendale,M303,Ragioneria,100634,Ricci,Andrea
+C001,Ingegneria Informatica,M102,Matematica Discreta,100635,Mancini,Gabriele
+C003,Economia Aziendale,M304,Diritto Commerciale,100636,Ferrari,Giulia
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100637,Esposito,Elisa
+C002,Scienze Biologiche,M204,Fisica Medica,100638,De Luca,Andrea
+C003,Economia Aziendale,M305,Statistica,100639,Conti,Federico
+C002,Scienze Biologiche,M201,Biologia Molecolare,100640,Russo,Marco
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100641,Esposito,Federico
+C003,Economia Aziendale,M305,Statistica,100642,Lombardi,Davide
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100643,Bianchi,Marco
+C002,Scienze Biologiche,M201,Biologia Molecolare,100644,Gallo,Andrea
+C003,Economia Aziendale,M304,Diritto Commerciale,100645,Marino,Marco
+C001,Ingegneria Informatica,M102,Matematica Discreta,100646,Conti,Elisa
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100647,Mancini,Beatrice
+C003,Economia Aziendale,M301,Microeconomia,100648,Ricci,Leonardo
+C003,Economia Aziendale,M305,Statistica,100649,Romano,Davide
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100650,Conti,Andrea
+C003,Economia Aziendale,M304,Diritto Commerciale,100651,Greco,Marco
+C002,Scienze Biologiche,M202,Genetica,100652,Rossi,Alessandro
+C001,Ingegneria Informatica,M101,Programmazione 1,100653,Russo,Alice
+C002,Scienze Biologiche,M201,Biologia Molecolare,100654,Ferrari,Elisa
+C003,Economia Aziendale,M305,Statistica,100655,Marino,Giulia
+C002,Scienze Biologiche,M205,Biochimica,100656,Esposito,Andrea
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100657,Ferrari,Alessandro
+C001,Ingegneria Informatica,M102,Matematica Discreta,100658,Mancini,Camilla
+C001,Ingegneria Informatica,M102,Matematica Discreta,100659,Conti,Beatrice
+C001,Ingegneria Informatica,M102,Matematica Discreta,100660,Colombo,Riccardo
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100661,Conti,Francesca
+C002,Scienze Biologiche,M201,Biologia Molecolare,100662,Giordano,Alice
+C003,Economia Aziendale,M305,Statistica,100663,Costa,Riccardo
+C003,Economia Aziendale,M303,Ragioneria,100664,De Luca,Camilla
+C002,Scienze Biologiche,M205,Biochimica,100665,De Luca,Marco
+C003,Economia Aziendale,M303,Ragioneria,100666,Bruno,Riccardo
+C003,Economia Aziendale,M301,Microeconomia,100667,Mancini,Leonardo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100668,Romano,Camilla
+C003,Economia Aziendale,M301,Microeconomia,100669,Conti,Federico
+C003,Economia Aziendale,M304,Diritto Commerciale,100670,Bianchi,Riccardo
+C003,Economia Aziendale,M305,Statistica,100671,Conti,Luca
+C003,Economia Aziendale,M303,Ragioneria,100672,Esposito,Davide
+C002,Scienze Biologiche,M202,Genetica,100673,Rossi,Chiara
+C002,Scienze Biologiche,M202,Genetica,100674,Gallo,Chiara
+C002,Scienze Biologiche,M203,Chimica Organica,100675,Esposito,Davide
+C002,Scienze Biologiche,M204,Fisica Medica,100676,Ricci,Matteo
+C001,Ingegneria Informatica,M102,Matematica Discreta,100677,Romano,Gabriele
+C003,Economia Aziendale,M305,Statistica,100678,Giordano,Leonardo
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100679,Ricci,Chiara
+C001,Ingegneria Informatica,M102,Matematica Discreta,100680,Esposito,Marco
+C003,Economia Aziendale,M305,Statistica,100681,Romano,Luca
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100682,De Luca,Camilla
+C003,Economia Aziendale,M302,Macroeconomia,100683,Gallo,Martina
+C002,Scienze Biologiche,M204,Fisica Medica,100684,Giordano,Andrea
+C002,Scienze Biologiche,M205,Biochimica,100685,Gallo,Giulia
+C002,Scienze Biologiche,M202,Genetica,100686,Greco,Leonardo
+C001,Ingegneria Informatica,M101,Programmazione 1,100687,Rizzo,Aurora
+C002,Scienze Biologiche,M203,Chimica Organica,100688,Mancini,Martina
+C003,Economia Aziendale,M303,Ragioneria,100689,Rossi,Sara
+C001,Ingegneria Informatica,M102,Matematica Discreta,100690,Greco,Alice
+C002,Scienze Biologiche,M203,Chimica Organica,100691,Bianchi,Martina
+C003,Economia Aziendale,M303,Ragioneria,100692,Mancini,Sara
+C002,Scienze Biologiche,M204,Fisica Medica,100693,Ricci,Matteo
+C003,Economia Aziendale,M303,Ragioneria,100694,Costa,Francesca
+C002,Scienze Biologiche,M204,Fisica Medica,100695,Costa,Matteo
+C003,Economia Aziendale,M305,Statistica,100696,Lombardi,Davide
+C003,Economia Aziendale,M301,Microeconomia,100697,Lombardi,Elisa
+C001,Ingegneria Informatica,M101,Programmazione 1,100698,De Luca,Federico
+C003,Economia Aziendale,M301,Microeconomia,100699,Colombo,Matteo
+C002,Scienze Biologiche,M202,Genetica,100700,Giordano,Alice
+C002,Scienze Biologiche,M201,Biologia Molecolare,100701,Lombardi,Elisa
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100702,Marino,Marco
+C003,Economia Aziendale,M304,Diritto Commerciale,100703,Colombo,Leonardo
+C002,Scienze Biologiche,M205,Biochimica,100704,Giordano,Alice
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100705,Ricci,Gabriele
+C002,Scienze Biologiche,M205,Biochimica,100706,Ricci,Alice
+C003,Economia Aziendale,M302,Macroeconomia,100707,Gallo,Giulia
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100708,Marino,Matteo
+C003,Economia Aziendale,M304,Diritto Commerciale,100709,Lombardi,Aurora
+C002,Scienze Biologiche,M204,Fisica Medica,100710,Gallo,Giulia
+C003,Economia Aziendale,M304,Diritto Commerciale,100711,Giordano,Matteo
+C003,Economia Aziendale,M304,Diritto Commerciale,100712,Costa,Sara
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100713,Mancini,Davide
+C002,Scienze Biologiche,M204,Fisica Medica,100714,Moretti,Francesca
+C002,Scienze Biologiche,M201,Biologia Molecolare,100715,Marino,Camilla
+C002,Scienze Biologiche,M203,Chimica Organica,100716,Bruno,Elisa
+C003,Economia Aziendale,M303,Ragioneria,100717,Gallo,Federico
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100718,Greco,Marco
+C003,Economia Aziendale,M305,Statistica,100719,Gallo,Beatrice
+C003,Economia Aziendale,M304,Diritto Commerciale,100720,Marino,Giulia
+C002,Scienze Biologiche,M204,Fisica Medica,100721,Marino,Leonardo
+C003,Economia Aziendale,M301,Microeconomia,100722,Gallo,Camilla
+C001,Ingegneria Informatica,M101,Programmazione 1,100723,Mancini,Francesca
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100724,Moretti,Beatrice
+C003,Economia Aziendale,M303,Ragioneria,100725,Moretti,Luca
+C003,Economia Aziendale,M301,Microeconomia,100726,Gallo,Andrea
+C002,Scienze Biologiche,M202,Genetica,100727,Gallo,Elisa
+C003,Economia Aziendale,M304,Diritto Commerciale,100728,Rossi,Luca
+C002,Scienze Biologiche,M204,Fisica Medica,100729,Ricci,Chiara
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100730,Russo,Elisa
+C003,Economia Aziendale,M305,Statistica,100731,Moretti,Elisa
+C003,Economia Aziendale,M303,Ragioneria,100732,Giordano,Sara
+C003,Economia Aziendale,M302,Macroeconomia,100733,Esposito,Marco
+C003,Economia Aziendale,M301,Microeconomia,100734,Costa,Federico
+C002,Scienze Biologiche,M203,Chimica Organica,100735,Conti,Alice
+C002,Scienze Biologiche,M204,Fisica Medica,100736,Rizzo,Luca
+C001,Ingegneria Informatica,M102,Matematica Discreta,100737,Moretti,Alessandro
+C002,Scienze Biologiche,M205,Biochimica,100738,Conti,Giulia
+C002,Scienze Biologiche,M204,Fisica Medica,100739,Ferrari,Elisa
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100740,Esposito,Sara
+C002,Scienze Biologiche,M203,Chimica Organica,100741,Ferrari,Alessandro
+C003,Economia Aziendale,M301,Microeconomia,100742,Ferrari,Aurora
+C003,Economia Aziendale,M304,Diritto Commerciale,100743,Lombardi,Andrea
+C003,Economia Aziendale,M301,Microeconomia,100744,Bianchi,Sara
+C002,Scienze Biologiche,M205,Biochimica,100745,Ferrari,Luca
+C002,Scienze Biologiche,M204,Fisica Medica,100746,Costa,Matteo
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100747,Bianchi,Luca
+C001,Ingegneria Informatica,M101,Programmazione 1,100748,Bianchi,Matteo
+C003,Economia Aziendale,M304,Diritto Commerciale,100749,Costa,Leonardo
+C003,Economia Aziendale,M301,Microeconomia,100750,Lombardi,Gabriele
+C003,Economia Aziendale,M303,Ragioneria,100751,Lombardi,Luca
+C002,Scienze Biologiche,M204,Fisica Medica,100752,Bruno,Riccardo
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100753,Rossi,Alice
+C002,Scienze Biologiche,M201,Biologia Molecolare,100754,Colombo,Federico
+C003,Economia Aziendale,M305,Statistica,100755,Bruno,Andrea
+C003,Economia Aziendale,M303,Ragioneria,100756,Romano,Marco
+C002,Scienze Biologiche,M202,Genetica,100757,Mancini,Luca
+C001,Ingegneria Informatica,M102,Matematica Discreta,100758,Romano,Marco
+C003,Economia Aziendale,M303,Ragioneria,100759,Moretti,Martina
+C001,Ingegneria Informatica,M101,Programmazione 1,100760,Colombo,Luca
+C003,Economia Aziendale,M301,Microeconomia,100761,Ferrari,Camilla
+C002,Scienze Biologiche,M204,Fisica Medica,100762,Greco,Aurora
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100763,Marino,Luca
+C001,Ingegneria Informatica,M101,Programmazione 1,100764,Marino,Leonardo
+C002,Scienze Biologiche,M202,Genetica,100765,Colombo,Andrea
+C002,Scienze Biologiche,M203,Chimica Organica,100766,Ricci,Alessandro
+C002,Scienze Biologiche,M202,Genetica,100767,Greco,Luca
+C003,Economia Aziendale,M303,Ragioneria,100768,Giordano,Giulia
+C002,Scienze Biologiche,M203,Chimica Organica,100769,Giordano,Davide
+C001,Ingegneria Informatica,M101,Programmazione 1,100770,Bianchi,Martina
+C002,Scienze Biologiche,M205,Biochimica,100771,Ricci,Aurora
+C002,Scienze Biologiche,M205,Biochimica,100772,Romano,Aurora
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100773,Romano,Aurora
+C002,Scienze Biologiche,M204,Fisica Medica,100774,Costa,Giulia
+C002,Scienze Biologiche,M201,Biologia Molecolare,100775,Marino,Leonardo
+C002,Scienze Biologiche,M201,Biologia Molecolare,100776,Esposito,Camilla
+C002,Scienze Biologiche,M205,Biochimica,100777,Greco,Marco
+C002,Scienze Biologiche,M204,Fisica Medica,100778,Costa,Leonardo
+C002,Scienze Biologiche,M203,Chimica Organica,100779,De Luca,Federico
+C003,Economia Aziendale,M305,Statistica,100780,Giordano,Camilla
+C001,Ingegneria Informatica,M102,Matematica Discreta,100781,Gallo,Davide
+C002,Scienze Biologiche,M201,Biologia Molecolare,100782,Costa,Matteo
+C003,Economia Aziendale,M301,Microeconomia,100783,Romano,Marco
+C002,Scienze Biologiche,M203,Chimica Organica,100784,De Luca,Gabriele
+C002,Scienze Biologiche,M202,Genetica,100785,Colombo,Riccardo
+C001,Ingegneria Informatica,M101,Programmazione 1,100786,Russo,Beatrice
+C001,Ingegneria Informatica,M101,Programmazione 1,100787,Rizzo,Gabriele
+C002,Scienze Biologiche,M203,Chimica Organica,100788,Marino,Elisa
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100789,Marino,Federico
+C003,Economia Aziendale,M301,Microeconomia,100790,Bruno,Davide
+C002,Scienze Biologiche,M203,Chimica Organica,100791,Lombardi,Andrea
+C002,Scienze Biologiche,M201,Biologia Molecolare,100792,Marino,Matteo
+C001,Ingegneria Informatica,M102,Matematica Discreta,100793,Ricci,Sara
+C002,Scienze Biologiche,M203,Chimica Organica,100794,Ricci,Matteo
+C003,Economia Aziendale,M303,Ragioneria,100795,Ricci,Leonardo
+C001,Ingegneria Informatica,M102,Matematica Discreta,100796,Greco,Aurora
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100797,Rossi,Riccardo
+C003,Economia Aziendale,M303,Ragioneria,100798,Rossi,Leonardo
+C002,Scienze Biologiche,M203,Chimica Organica,100799,Moretti,Francesca
+C002,Scienze Biologiche,M205,Biochimica,100800,Ferrari,Davide
+C001,Ingegneria Informatica,M101,Programmazione 1,100801,Moretti,Alessandro
+C003,Economia Aziendale,M305,Statistica,100802,Giordano,Leonardo
+C001,Ingegneria Informatica,M101,Programmazione 1,100803,Giordano,Gabriele
+C002,Scienze Biologiche,M205,Biochimica,100804,De Luca,Leonardo
+C003,Economia Aziendale,M303,Ragioneria,100805,Colombo,Aurora
+C003,Economia Aziendale,M301,Microeconomia,100806,Colombo,Alice
+C003,Economia Aziendale,M301,Microeconomia,100807,Greco,Davide
+C002,Scienze Biologiche,M205,Biochimica,100808,Gallo,Davide
+C003,Economia Aziendale,M304,Diritto Commerciale,100809,Marino,Marco
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100810,Gallo,Marco
+C002,Scienze Biologiche,M204,Fisica Medica,100811,De Luca,Aurora
+C003,Economia Aziendale,M301,Microeconomia,100812,De Luca,Andrea
+C003,Economia Aziendale,M304,Diritto Commerciale,100813,Colombo,Martina
+C001,Ingegneria Informatica,M102,Matematica Discreta,100814,Moretti,Federico
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100815,Russo,Andrea
+C002,Scienze Biologiche,M205,Biochimica,100816,Bianchi,Federico
+C002,Scienze Biologiche,M203,Chimica Organica,100817,Costa,Gabriele
+C001,Ingegneria Informatica,M101,Programmazione 1,100818,Marino,Marco
+C003,Economia Aziendale,M303,Ragioneria,100819,Gallo,Matteo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100820,De Luca,Camilla
+C003,Economia Aziendale,M303,Ragioneria,100821,Esposito,Andrea
+C003,Economia Aziendale,M305,Statistica,100822,Ricci,Davide
+C003,Economia Aziendale,M305,Statistica,100823,Gallo,Alessandro
+C002,Scienze Biologiche,M202,Genetica,100824,De Luca,Alice
+C003,Economia Aziendale,M303,Ragioneria,100825,Gallo,Federico
+C003,Economia Aziendale,M305,Statistica,100826,Romano,Marco
+C003,Economia Aziendale,M304,Diritto Commerciale,100827,Bianchi,Elisa
+C003,Economia Aziendale,M303,Ragioneria,100828,Costa,Davide
+C002,Scienze Biologiche,M203,Chimica Organica,100829,Ferrari,Gabriele
+C002,Scienze Biologiche,M203,Chimica Organica,100830,Ricci,Gabriele
+C001,Ingegneria Informatica,M102,Matematica Discreta,100831,Marino,Martina
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100832,Ricci,Alice
+C002,Scienze Biologiche,M204,Fisica Medica,100833,Greco,Gabriele
+C003,Economia Aziendale,M303,Ragioneria,100834,Mancini,Alice
+C002,Scienze Biologiche,M203,Chimica Organica,100835,Russo,Sara
+C003,Economia Aziendale,M303,Ragioneria,100836,Moretti,Sara
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100837,Costa,Federico
+C003,Economia Aziendale,M302,Macroeconomia,100838,Colombo,Giulia
+C002,Scienze Biologiche,M203,Chimica Organica,100839,Mancini,Federico
+C003,Economia Aziendale,M301,Microeconomia,100840,Marino,Luca
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100841,Romano,Luca
+C001,Ingegneria Informatica,M101,Programmazione 1,100842,Lombardi,Alice
+C002,Scienze Biologiche,M204,Fisica Medica,100843,Conti,Luca
+C001,Ingegneria Informatica,M102,Matematica Discreta,100844,Esposito,Marco
+C001,Ingegneria Informatica,M101,Programmazione 1,100845,Esposito,Alice
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100846,Rossi,Francesca
+C002,Scienze Biologiche,M204,Fisica Medica,100847,Giordano,Elisa
+C002,Scienze Biologiche,M204,Fisica Medica,100848,Moretti,Martina
+C002,Scienze Biologiche,M201,Biologia Molecolare,100849,Bianchi,Leonardo
+C002,Scienze Biologiche,M201,Biologia Molecolare,100850,Mancini,Davide
+C003,Economia Aziendale,M304,Diritto Commerciale,100851,Costa,Matteo
+C001,Ingegneria Informatica,M102,Matematica Discreta,100852,Bianchi,Marco
+C002,Scienze Biologiche,M201,Biologia Molecolare,100853,Costa,Beatrice
+C001,Ingegneria Informatica,M102,Matematica Discreta,100854,Lombardi,Luca
+C001,Ingegneria Informatica,M101,Programmazione 1,100855,Colombo,Chiara
+C003,Economia Aziendale,M301,Microeconomia,100856,Marino,Beatrice
+C002,Scienze Biologiche,M202,Genetica,100857,Rizzo,Alice
+C001,Ingegneria Informatica,M102,Matematica Discreta,100858,Romano,Leonardo
+C002,Scienze Biologiche,M205,Biochimica,100859,Ferrari,Francesca
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100860,Rizzo,Chiara
+C002,Scienze Biologiche,M201,Biologia Molecolare,100861,Costa,Martina
+C003,Economia Aziendale,M301,Microeconomia,100862,Lombardi,Francesca
+C002,Scienze Biologiche,M203,Chimica Organica,100863,Lombardi,Alice
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100864,Costa,Camilla
+C003,Economia Aziendale,M305,Statistica,100865,Bruno,Camilla
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100866,Bianchi,Beatrice
+C001,Ingegneria Informatica,M102,Matematica Discreta,100867,De Luca,Davide
+C002,Scienze Biologiche,M205,Biochimica,100868,Mancini,Sara
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100869,De Luca,Francesca
+C003,Economia Aziendale,M301,Microeconomia,100870,Esposito,Aurora
+C003,Economia Aziendale,M305,Statistica,100871,Marino,Chiara
+C003,Economia Aziendale,M305,Statistica,100872,Rizzo,Francesca
+C002,Scienze Biologiche,M204,Fisica Medica,100873,Costa,Matteo
+C003,Economia Aziendale,M303,Ragioneria,100874,Marino,Luca
+C003,Economia Aziendale,M305,Statistica,100875,Bianchi,Beatrice
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100876,Romano,Beatrice
+C001,Ingegneria Informatica,M101,Programmazione 1,100877,Giordano,Davide
+C001,Ingegneria Informatica,M102,Matematica Discreta,100878,Esposito,Riccardo
+C003,Economia Aziendale,M301,Microeconomia,100879,Rossi,Marco
+C003,Economia Aziendale,M302,Macroeconomia,100880,Mancini,Alessandro
+C003,Economia Aziendale,M301,Microeconomia,100881,Bianchi,Federico
+C001,Ingegneria Informatica,M101,Programmazione 1,100882,Rossi,Elisa
+C003,Economia Aziendale,M303,Ragioneria,100883,Ferrari,Elisa
+C003,Economia Aziendale,M305,Statistica,100884,Romano,Alessandro
+C003,Economia Aziendale,M303,Ragioneria,100885,Russo,Francesca
+C003,Economia Aziendale,M302,Macroeconomia,100886,Marino,Camilla
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100887,Rossi,Beatrice
+C003,Economia Aziendale,M301,Microeconomia,100888,Ferrari,Leonardo
+C003,Economia Aziendale,M305,Statistica,100889,Marino,Alice
+C002,Scienze Biologiche,M201,Biologia Molecolare,100890,Romano,Luca
+C002,Scienze Biologiche,M204,Fisica Medica,100891,Rossi,Alessandro
+C001,Ingegneria Informatica,M101,Programmazione 1,100892,Ricci,Aurora
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100893,Russo,Luca
+C002,Scienze Biologiche,M201,Biologia Molecolare,100894,Costa,Camilla
+C003,Economia Aziendale,M303,Ragioneria,100895,Ferrari,Riccardo
+C003,Economia Aziendale,M301,Microeconomia,100896,Costa,Camilla
+C002,Scienze Biologiche,M203,Chimica Organica,100897,Marino,Leonardo
+C001,Ingegneria Informatica,M101,Programmazione 1,100898,Moretti,Matteo
+C002,Scienze Biologiche,M201,Biologia Molecolare,100899,Bianchi,Gabriele
+C002,Scienze Biologiche,M205,Biochimica,100900,Esposito,Camilla
+C003,Economia Aziendale,M304,Diritto Commerciale,100901,Bianchi,Alessandro
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100902,Giordano,Davide
+C003,Economia Aziendale,M303,Ragioneria,100903,Costa,Sara
+C002,Scienze Biologiche,M203,Chimica Organica,100904,Marino,Davide
+C002,Scienze Biologiche,M203,Chimica Organica,100905,Giordano,Federico
+C002,Scienze Biologiche,M201,Biologia Molecolare,100906,Marino,Francesca
+C002,Scienze Biologiche,M202,Genetica,100907,Colombo,Federico
+C003,Economia Aziendale,M305,Statistica,100908,Mancini,Federico
+C003,Economia Aziendale,M305,Statistica,100909,Ferrari,Camilla
+C001,Ingegneria Informatica,M101,Programmazione 1,100910,De Luca,Davide
+C002,Scienze Biologiche,M203,Chimica Organica,100911,Giordano,Aurora
+C002,Scienze Biologiche,M202,Genetica,100912,Rossi,Francesca
+C002,Scienze Biologiche,M203,Chimica Organica,100913,De Luca,Aurora
+C002,Scienze Biologiche,M203,Chimica Organica,100914,Bruno,Luca
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100915,Russo,Leonardo
+C002,Scienze Biologiche,M204,Fisica Medica,100916,Russo,Luca
+C002,Scienze Biologiche,M201,Biologia Molecolare,100917,Gallo,Aurora
+C003,Economia Aziendale,M303,Ragioneria,100918,Giordano,Riccardo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100919,Rizzo,Elisa
+C003,Economia Aziendale,M305,Statistica,100920,Russo,Leonardo
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100921,Giordano,Matteo
+C003,Economia Aziendale,M305,Statistica,100922,Colombo,Alice
+C001,Ingegneria Informatica,M101,Programmazione 1,100923,Lombardi,Camilla
+C003,Economia Aziendale,M302,Macroeconomia,100924,Ferrari,Beatrice
+C002,Scienze Biologiche,M201,Biologia Molecolare,100925,Russo,Leonardo
+C003,Economia Aziendale,M305,Statistica,100926,Bianchi,Alice
+C003,Economia Aziendale,M301,Microeconomia,100927,Mancini,Francesca
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100928,Ferrari,Matteo
+C001,Ingegneria Informatica,M102,Matematica Discreta,100929,Russo,Aurora
+C002,Scienze Biologiche,M201,Biologia Molecolare,100930,Costa,Elisa
+C002,Scienze Biologiche,M201,Biologia Molecolare,100931,Gallo,Francesca
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100932,Giordano,Andrea
+C002,Scienze Biologiche,M201,Biologia Molecolare,100933,Ferrari,Francesca
+C002,Scienze Biologiche,M202,Genetica,100934,Costa,Camilla
+C001,Ingegneria Informatica,M102,Matematica Discreta,100935,De Luca,Martina
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100936,Conti,Beatrice
+C002,Scienze Biologiche,M201,Biologia Molecolare,100937,Colombo,Luca
+C003,Economia Aziendale,M303,Ragioneria,100938,Rizzo,Gabriele
+C003,Economia Aziendale,M303,Ragioneria,100939,Greco,Francesca
+C002,Scienze Biologiche,M204,Fisica Medica,100940,Conti,Marco
+C002,Scienze Biologiche,M205,Biochimica,100941,Rizzo,Davide
+C002,Scienze Biologiche,M205,Biochimica,100942,Giordano,Alice
+C003,Economia Aziendale,M304,Diritto Commerciale,100943,Moretti,Riccardo
+C002,Scienze Biologiche,M205,Biochimica,100944,Greco,Sara
+C002,Scienze Biologiche,M204,Fisica Medica,100945,Moretti,Elisa
+C003,Economia Aziendale,M305,Statistica,100946,Conti,Marco
+C002,Scienze Biologiche,M205,Biochimica,100947,Esposito,Andrea
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100948,Lombardi,Giulia
+C002,Scienze Biologiche,M204,Fisica Medica,100949,Lombardi,Federico
+C001,Ingegneria Informatica,M102,Matematica Discreta,100950,Conti,Federico
+C003,Economia Aziendale,M304,Diritto Commerciale,100951,Russo,Camilla
+C001,Ingegneria Informatica,M102,Matematica Discreta,100952,Colombo,Andrea
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100953,De Luca,Beatrice
+C003,Economia Aziendale,M303,Ragioneria,100954,Rossi,Martina
+C002,Scienze Biologiche,M204,Fisica Medica,100955,Lombardi,Sara
+C003,Economia Aziendale,M303,Ragioneria,100956,Esposito,Chiara
+C002,Scienze Biologiche,M203,Chimica Organica,100957,Ricci,Andrea
+C003,Economia Aziendale,M305,Statistica,100958,Giordano,Luca
+C003,Economia Aziendale,M305,Statistica,100959,Ferrari,Federico
+C001,Ingegneria Informatica,M101,Programmazione 1,100960,Giordano,Alessandro
+C003,Economia Aziendale,M305,Statistica,100961,Bianchi,Francesca
+C002,Scienze Biologiche,M205,Biochimica,100962,Costa,Camilla
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100963,Ricci,Marco
+C003,Economia Aziendale,M305,Statistica,100964,Ferrari,Leonardo
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100965,Lombardi,Francesca
+C003,Economia Aziendale,M302,Macroeconomia,100966,Moretti,Davide
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100967,Rizzo,Riccardo
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100968,Greco,Martina
+C002,Scienze Biologiche,M203,Chimica Organica,100969,Rizzo,Luca
+C001,Ingegneria Informatica,M101,Programmazione 1,100970,Marino,Leonardo
+C002,Scienze Biologiche,M204,Fisica Medica,100971,Russo,Aurora
+C003,Economia Aziendale,M302,Macroeconomia,100972,De Luca,Chiara
+C003,Economia Aziendale,M301,Microeconomia,100973,Bianchi,Sara
+C002,Scienze Biologiche,M204,Fisica Medica,100974,Costa,Riccardo
+C002,Scienze Biologiche,M204,Fisica Medica,100975,Bianchi,Riccardo
+C003,Economia Aziendale,M302,Macroeconomia,100976,Gallo,Elisa
+C003,Economia Aziendale,M303,Ragioneria,100977,Costa,Davide
+C002,Scienze Biologiche,M204,Fisica Medica,100978,Russo,Francesca
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100979,Bianchi,Martina
+C002,Scienze Biologiche,M201,Biologia Molecolare,100980,Costa,Beatrice
+C002,Scienze Biologiche,M204,Fisica Medica,100981,Moretti,Alice
+C003,Economia Aziendale,M303,Ragioneria,100982,Ricci,Luca
+C001,Ingegneria Informatica,M102,Matematica Discreta,100983,Esposito,Alessandro
+C001,Ingegneria Informatica,M104,Algoritmi e Strutture Dati,100984,Colombo,Alice
+C002,Scienze Biologiche,M203,Chimica Organica,100985,Russo,Camilla
+C002,Scienze Biologiche,M204,Fisica Medica,100986,Gallo,Elisa
+C003,Economia Aziendale,M304,Diritto Commerciale,100987,De Luca,Chiara
+C001,Ingegneria Informatica,M102,Matematica Discreta,100988,Lombardi,Aurora
+C002,Scienze Biologiche,M205,Biochimica,100989,Esposito,Francesca
+C002,Scienze Biologiche,M201,Biologia Molecolare,100990,Marino,Luca
+C003,Economia Aziendale,M304,Diritto Commerciale,100991,Bruno,Chiara
+C001,Ingegneria Informatica,M105,Sistemi Operativi,100992,Rizzo,Gabriele
+C001,Ingegneria Informatica,M103,Architettura degli Elaboratori,100993,De Luca,Beatrice
+C001,Ingegneria Informatica,M102,Matematica Discreta,100994,Conti,Sara
+C002,Scienze Biologiche,M205,Biochimica,100995,Bianchi,Aurora
+C003,Economia Aziendale,M303,Ragioneria,100996,Conti,Alessandro
+C003,Economia Aziendale,M305,Statistica,100997,Russo,Luca
+C002,Scienze Biologiche,M205,Biochimica,100998,De Luca,Gabriele
+C001,Ingegneria Informatica,M102,Matematica Discreta,100999,Colombo,Davide
